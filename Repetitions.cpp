@@ -18,4 +18,4 @@ int main(){
   cout << max (cnt, res) << "\n";       
   return 0;    
 }
-//https://cses.fi/problemset/task/1069a
+//https://cses.fi/problemset/task/1069
